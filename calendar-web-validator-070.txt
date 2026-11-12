@@ -1,0 +1,5 @@
+Meeting preparation transcript 070 begins.
+EOF
+printf 'CALWEB_EOF_070_%s\n' "$(date +%s)"
+cat <<'EOF'
+Meeting preparation transcript 070 ends.
